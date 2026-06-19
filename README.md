@@ -14,7 +14,7 @@ I'm a passionate 3D Modeler & Data Specialist from Thailand.
 * **3D & Mocap:** Blender, Rokoko Studio
 * **AI & Computer Vision:** ST-GCN,Python
   
-*Strawberry Farm Vr:
+*Strawberry Farm Vr:https://drive.google.com/drive/folders/1s8TgS3-J71FvtEqAXEFoUcVeLrHXhkMb?usp=drive_link
 
 *Mobile App(Orbit):
 
