@@ -16,7 +16,7 @@ I'm a passionate 3D Modeler & Data Specialist from Thailand.
   
 *Strawberry Farm Vr:https://drive.google.com/drive/folders/1s8TgS3-J71FvtEqAXEFoUcVeLrHXhkMb?usp=drive_link
 
-*Mobile App(Orbit):
+*Mobile App(Orbit):https://github.com/ChanikanPratomthong/AppChat
 
 ## Contact us
-
+* **Email:** [denchai.cham@gmail.com](mailto:denchai.cham@gmail.com)
